@@ -1,1 +1,1 @@
-# sign-language-classification
+# Sign Language Classification
